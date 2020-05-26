@@ -1,3 +1,5 @@
+Team Members: Abdurrafay Khan, Shadman Kaif, Shanthosh Sivayogalingam, Shaqib Rahman
+
 ## Inspiration
 Security and facial recognition was our main interest when planning our project for this Makeathon. We were inspired by a documentary in which a male was convicted of murder by the police deparment in Los Angeles. The man was imprisoned for six months away from his daughter and wife. He was wrongfully convicted and this was discovered thorugh the means of a video that displayed evidence of him beign present at a LA Dodgers game at the same time of the alleged murder conviction. Thus, he was set free and this story truly impacted us from an emotional standpoint because the man had to pay a hefty price of six month prison time for no reason. This exposed us to the world of facial recognition and software that can help identify faces that are not explicitly shown. We wanted to employ software that would help identify faces based on neural networks that were preloaded.
 
